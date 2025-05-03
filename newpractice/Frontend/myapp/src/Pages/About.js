@@ -16,7 +16,7 @@ return (
                 </div>
                 <div class="col-12 col-sm-12 col-md-12 col-lg-6">
                     <div class='d-flex justify-content-center mt-4'>
-                        <img src={'/images/aboutimg.jpg'} alt="" class='about-img my-5'/>
+                        <img src={'./Images/aboutimg.jpg'} alt="" class='about-img my-5'/>
                     </div>
                 </div>
             </div>
