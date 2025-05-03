@@ -8,7 +8,7 @@ return (
         <div class='row m-5'>
             <div class='col-12 col-sm-12 col-md-12 col-lg-6'>
                 <div class='d-flex justify-content-center'>
-                    <img src={'/images/learn.jpg'} alt="" class='learn-1'/>
+                    <img src={'./Images/learn.jpg'} alt="" class='learn-1'/>
                 </div>
             </div>
             <div class='col-12 col-sm-12 col-md-12 col-lg-6 learn-2'>
