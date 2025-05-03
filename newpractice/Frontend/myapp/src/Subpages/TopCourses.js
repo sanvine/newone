@@ -12,7 +12,7 @@ return (
             <div class='row'>
                 <div class='col-12 col-sm-12 col-md-12 col-lg-4 '>
                     <div class='d-flex justify-content-center'>
-                        <img src={'/images/developimg.jpg'} alt="" class='top-img'/>
+                        <img src={'./Images/developimg.jpg'} alt="" class='top-img'/>
                             <button class='spanimg' onClick={handleClick}>View All Courses</button>
                     </div>
                     <h6 class='top-h6 mt-3'>Software courses</h6>
@@ -20,7 +20,7 @@ return (
                 </div>
                 <div class='col-12 col-sm-12 col-md-12 col-lg-4 '>
                     <div class='d-flex justify-content-center'>
-                        <img src={'/images/designimg.jpg'} alt="" class='top-img'/>
+                        <img src={'./Images/designimg.jpg'} alt="" class='top-img'/>
                         <button class='spanimg' onClick={handleClick}>View All Courses</button>
                     </div>
                     <h6 class='top-h6 mt-3'>Designing courses</h6>
@@ -28,7 +28,7 @@ return (
                 </div>
                 <div class='col-12 col-sm-12 col-md-12 col-lg-4 '>
                     <div class='d-flex justify-content-center'>
-                        <img src={'/images/accountimg.jpg'} alt="" class='top-img'/>
+                        <img src={'./Images/accountimg.jpg'} alt="" class='top-img'/>
                         <button class='spanimg' onClick={handleClick}>View All Courses</button>
                     </div>
                     <h6 class='top-h6 mt-3'>Accounting courses</h6>
