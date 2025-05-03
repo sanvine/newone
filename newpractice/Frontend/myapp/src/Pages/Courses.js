@@ -10,7 +10,7 @@ return (
                 <div class='row'>
                     <div class='col-12 col-md-4 col-lg-3 mt-5'>
                         <div class='card'>
-                            <img class='img-fluid w-100' src={'/images/msoffice.jpg'} alt='' />
+                            <img class='img-fluid w-100' src={'public/images/msoffice.jpg'} alt='' />
                             <div class='card-body mt-3'>
                                 <h3 class='card-title'>Ms Office</h3>
                                 <p class='card-text mt-3'>MS Office tools like Word, Excel, PowerPoint, and Outlook to boost productivity and enhance workplace efficiency</p>
