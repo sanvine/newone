@@ -49,7 +49,7 @@ return (
                 </form>
             </div>
             <div class='col-12 col-sm-12 col-md-12 col-lg-6 pe-5 ps-5 pb-5'>
-                <img class='comment-img col-12 col-sm-12 col-md-12 col-lg-6' src="/images/comment.jpg" alt="" />
+                <img class='comment-img col-12 col-sm-12 col-md-12 col-lg-6' src="./Images/comment.jpg" alt="" />
             </div>
         </div>
     </div>
