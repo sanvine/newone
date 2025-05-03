@@ -44,7 +44,7 @@ return (
         <nav class="navbar navbar-expand-lg bg-body-tertiary w-100 h-100">
             <div class="container">
                 <Link to='/'>
-                    <img class='nav-img' src={'/images/logo.png'} alt="" />
+                    <img class='nav-img' src={'./Images/logo.png'} alt="" />
                 </Link>
                 <h3 class='nav-head'>CODETECH LEARN</h3>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
